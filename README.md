@@ -12,10 +12,11 @@
 
 
 ## Hospedagens
-| Hotel | Trajeto |
-|-- | -- |
-| [Roma: DG PRESTIGE ROOM](https://www.booking.com/hotel/it/dg-luxury-room.pt-br.html?label=gen173nr-1FCAEoggI46AdIM1gEaI4CiAEBmAEtuAEXyAEM2AEB6AEB-AELiAIBqAIDuAKTycLmBcACAQ;sid=b378dec8f588b92c8b41f38ff7939360) | <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d22224.862025084356!2d12.489128848246784!3d41.897003303591774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x13258897021b1d77%3A0x9b41a49c68c40a32!2sCiampino%2C+Roma%2C+It%C3%A1lia!3m2!1d41.802425!2d12.6021389!4m5!1s0x132f610098987a03%3A0xc23c87b2ec70fd0d!2sVia+Lombardia%2C+30%2C+00187+Roma+RM%2C+It%C3%A1lia!3m2!1d41.9077096!2d12.4882128!5e0!3m2!1spt-BR!2sus!4v1557180809708!5m2!1spt-BR!2sus" width="450" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>| |
-|[Residenza Castelli](https://www.booking.com/hotel/it/residenza-castelli.pt-br.html?label=gen173nr-1FCAEoggI46AdIM1gEaI4CiAEBmAEtuAEXyAEM2AEB6AEB-AELiAIBqAIDuAKTycLmBcACAQ;sid=b378dec8f588b92c8b41f38ff7939360#map_closed)|<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5762.115959944157!2d11.247195026136467!3d43.77165526380497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x132a56914278fb93%3A0xa80a63968992d815!2sSanta+Maria+Novella%2C+Floren%C3%A7a%2C+It%C3%A1lia!3m2!1d43.774704!2d11.2490443!4m5!1s0x132a54006c9f7c87%3A0xb0c19b7d0ef1d4b1!2sResidenza+Castelli%2C+Piazza+di+Santo+Stefano%2C+1%2C+50122+Firenze+FI%2C+It%C3%A1lia!3m2!1d43.7686723!2d11.2538168!5e0!3m2!1spt-BR!2sus!4v1557181520322!5m2!1spt-BR!2sus" width="450" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>|
+ [Roma: DG PRESTIGE ROOM](https://www.booking.com/hotel/it/dg-luxury-room.pt-br.html?label=gen173nr-1FCAEoggI46AdIM1gEaI4CiAEBmAEtuAEXyAEM2AEB6AEB-AELiAIBqAIDuAKTycLmBcACAQ;sid=b378dec8f588b92c8b41f38ff7939360)
+  <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d22224.862025084356!2d12.489128848246784!3d41.897003303591774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x13258897021b1d77%3A0x9b41a49c68c40a32!2sCiampino%2C+Roma%2C+It%C3%A1lia!3m2!1d41.802425!2d12.6021389!4m5!1s0x132f610098987a03%3A0xc23c87b2ec70fd0d!2sVia+Lombardia%2C+30%2C+00187+Roma+RM%2C+It%C3%A1lia!3m2!1d41.9077096!2d12.4882128!5e0!3m2!1spt-BR!2sus!4v1557180809708!5m2!1spt-BR!2sus" width="450" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+[Residenza Castelli]
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5762.115959944157!2d11.247195026136467!3d43.77165526380497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x132a56914278fb93%3A0xa80a63968992d815!2sSanta+Maria+Novella%2C+Floren%C3%A7a%2C+It%C3%A1lia!3m2!1d43.774704!2d11.2490443!4m5!1s0x132a54006c9f7c87%3A0xb0c19b7d0ef1d4b1!2sResidenza+Castelli%2C+Piazza+di+Santo+Stefano%2C+1%2C+50122+Firenze+FI%2C+It%C3%A1lia!3m2!1d43.7686723!2d11.2538168!5e0!3m2!1spt-BR!2sus!4v1557181520322!5m2!1spt-BR!2sus" width="450" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 ## Atrações

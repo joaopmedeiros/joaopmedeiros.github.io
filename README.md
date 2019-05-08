@@ -2,10 +2,10 @@
 ![Nossas caras bonitas](/images/IMG_5093.jpg)
 
 ## Checklist antes de sair
-[ ] Reservar Dublin!! :fearful:
-[ ] Imprimir seguro viagem e essa página
-[ ] Comprar euros
-[ ] Liberar cartões de crédito
+- [ ] Reservar Dublin!! :fearful:
+- [ ] Imprimir seguro viagem e essa página
+- [ ] Comprar euros
+- [ ] Liberar cartões de crédito
 
 # Resumão
 

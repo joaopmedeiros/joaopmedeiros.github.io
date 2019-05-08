@@ -1,8 +1,3 @@
----
-title: Carla & João
-layout: post
----
-
 # Roteiro Lua de Mel :heart:
 ![Nossas caras bonitas](/images/IMG_5093.jpg)
 

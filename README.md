@@ -89,4 +89,4 @@ Host ainda não forneceu o mapa
 * Dublin
 * Lisboa
 
-Colocar: Seguro viagem, buscar atrações e restaurantes no tripadvisor, colocar dicas de transporte publico de cada lugar, aluguel de motinho em roma, e passeio toscana, passagens de trem
+> Colocar: Seguro viagem, buscar atrações e restaurantes no tripadvisor, colocar dicas de transporte publico de cada lugar, aluguel de motinho em roma, e passeio toscana, passagens de trem

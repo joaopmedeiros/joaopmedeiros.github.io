@@ -2,14 +2,14 @@
 ![Nossas caras bonitas](/images/IMG_5093.jpg)
 
 ## Checklist antes de sair
-- [ ] Reservar Dublin!! :fearful:
-- [ ] Imprimir seguro viagem e essa página
-- [ ] Comprar euros
-- [ ] Liberar cartões de crédito
+[ ] Reservar Dublin!! :fearful:
+[ ] Imprimir seguro viagem e essa página
+[ ] Comprar euros
+[ ] Liberar cartões de crédito
 
 # Resumão
 | DIA DO MES | LUGAR |
-| -- | -- |
+| ---------- | ----- |
 | **13** | Chegada em lisboa, ida para Roma |
 | **13**,14,15,**16** | Roma |
 | **16**,17,**18** | Florença |
@@ -18,6 +18,7 @@
 | **24**,25,26,**27** | Dublin |
 | **27**,28,29,**30** | Lisboa |
 | **30** | Saída de Lisboa para POA |
+
 
 ## Passagens
 

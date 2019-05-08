@@ -3,7 +3,7 @@
 
 ## Checklist antes de sair
 
-- [ ] Reservar Dublin!! :fearful:
+- [x] Reservar Dublin!! :fearful:
 - [ ] Imprimir seguro viagem e essa página
 - [ ] Comprar euros
 - [ ] Liberar cartões de crédito
@@ -24,7 +24,7 @@
 
 ## Passagens
 
-| Trecho | Dia | Sai às | Chega às | Reserva | Cia  |
+| Trecho | Dia | Sai | Chega | Reserva | Cia  |
 | ---------- | -- | ----- | ----- | ---------- | -------------- |
 | POA -> VCP | 12 | 12:05 | 13:40 | **BDSDHG** | [Azul](https://www.voeazul.com.br) |
 | VCP -> LIS | 12 | 17:00 | 06:55 | **BDSDHG** | [Azul](https://www.voeazul.com.br) |
@@ -50,11 +50,14 @@
 [Barcelona: Som Nit Triomf](https://www.hoteis.com/hotel/details.html?pos=HCOM_BR&locale=pt_BR&hotelId=687741728&rffrid=eml.hcom.BR.430.00.2019.04.22.src00.00.00.0000.0000.00.0000&intlid=Body_HotelName&tab=description&et_e=joaop.medeiros@gmail.com&et_j=0&et_l=0&et_mid=0)
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d95858.9599005215!2d2.044292695909155!3d41.3394737589002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x12a49e64847c8ea5%3A0xf32be942fb6f9bd7!2sAeropuerto+de+Barcelona-El+Prat+(BCN)%2C+El+Prat+de+Llobregat%2C+Espanha!3m2!1d41.297444999999996!2d2.0832941!4m5!1s0x12a4a2fb287b6aab%3A0x7b4f46d8a0241eac!2sSom+Nit+Triomf%2C+4%C2%BA%2C+Trafalgar%2C+39%2C+08010+Barcelona%2C+Espanha!3m2!1d41.390097999999995!2d2.177086!5e0!3m2!1spt-BR!2sbr!4v1557272591889!5m2!1spt-BR!2sbr" width="450" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-**Dublin vamos dormir na rua** :astonished:
+[Dublin](https://www.airbnb.com.br/trips/v1/de5a806d-4d82-49cd-85fc-8833eb562da7/ro/RESERVATION2_CHECKIN/HMANT8FTXE/g)
+Host ainda não forneceu o mapa
 
 [Lisboa: Airbnb](https://pt.airbnb.com/trips/v1/f08c3071-d77e-413f-ab01-aeae7616bffd/ro/RESERVATION2_CHECKIN/HMANCDTZBK/g)
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d49790.49608213418!2d-9.152321419251184!3d38.74291912190083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0xd19324616d90183%3A0xa66a53e58036d46!2sLisbon+Airport+(LIS)%2C+Alameda+das+Comunidades+Portuguesas%2C+Lisboa%2C+Portugal!3m2!1d38.7755936!2d-9.135366699999999!4m5!1s0xd193477dbbd563b%3A0x7441d3d05c5209ec!2sR.+das+Flores+de+Santa+Cruz+25+4+andar%2C+1100-244+Lisboa%2C+Portugal!3m2!1d38.7134253!2d-9.1327306!5e0!3m2!1spt-BR!2sbr!4v1557273771001!5m2!1spt-BR!2sbr" width="450" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+## Dicas de transporte
+[Roma cidade](https://www.viajandoparaitalia.com.br/italia-central/lazio/como-se-locomover-em-roma/), [Roma saindo do aeroporto](http://www.romapravoce.com/aeroporto-de-roma-ciampino/)
 
 ## Atrações
 * Roma: Coliseu, capela cistina.. 

@@ -8,6 +8,7 @@
 [ ] Liberar cartões de crédito
 
 # Resumão
+
 | DIA DO MES | LUGAR |
 | ---------- | ----- |
 | **13** | Chegada em lisboa, ida para Roma |

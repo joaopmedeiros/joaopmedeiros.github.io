@@ -1,7 +1,13 @@
+---
+title: Carla & João
+layout: post
+---
+
 # Roteiro Lua de Mel :heart:
 ![Nossas caras bonitas](/images/IMG_5093.jpg)
 
 ## Checklist antes de sair
+
 - [ ] Reservar Dublin!! :fearful:
 - [ ] Imprimir seguro viagem e essa página
 - [ ] Comprar euros
@@ -73,4 +79,4 @@
 * Dublin
 * Lisboa
 
-Colocar: Seguro viagem, buscar atrações e restaurantes no tripadvisor, colocar dicas de transporte publico de cada lugar, aluguel de motinho em roma, e passeio toscana.
+Colocar: Seguro viagem, buscar atrações e restaurantes no tripadvisor, colocar dicas de transporte publico de cada lugar, aluguel de motinho em roma, e passeio toscana, passagens de trem

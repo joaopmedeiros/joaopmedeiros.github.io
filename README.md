@@ -9,7 +9,7 @@
 
 # Resumão
 | DIA DO MES | LUGAR |
-| -- | -- | 
+| -- | -- |
 | **13** | Chegada em lisboa, ida para Roma |
 | **13**,14,15,**16** | Roma |
 | **16**,17,**18** | Florença |

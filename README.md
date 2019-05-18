@@ -84,9 +84,7 @@ Host ainda não forneceu o mapa
 * Roma
 * Florença
 * Toscana
-* Veneza
+* Veneza: timon bar, Al Bottegon, piazza san marco, piazaela roma
 * Barcelona
 * Dublin
 * Lisboa
-
-> Colocar: Seguro viagem, buscar atrações e restaurantes no tripadvisor, colocar dicas de transporte publico de cada lugar, aluguel de motinho em roma, e passeio toscana, passagens de trem

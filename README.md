@@ -84,7 +84,7 @@ Host ainda não forneceu o mapa
 * Roma
 * Florença
 * Toscana
-* Veneza: timon bar, Al Bottegon, piazza san marco, piazaela roma
+* Veneza: Adagio Caffe & Wine Bar, timon bar, Al Bottegon, piazza san marco, piazaela roma
 * Barcelona
 * Dublin
 * Lisboa
